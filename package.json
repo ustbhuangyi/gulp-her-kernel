@@ -1,0 +1,31 @@
+{
+  "name": "gulp-her-kernel",
+  "version": "0.0.1",
+  "description": "her kernel,it's kernel for other [gulp-her-xxx] plugin",
+  "author": {
+    "name": "huangyi",
+    "email": "ustbhuangyi@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ustbhuangyi/gulp-her-kernel/issues"
+  },
+  "engines": {
+    "node": ">=0.9"
+  },
+  "homepage": "https://github.com/ustbhuangyi/gulp-her-kernel/",
+  "keywords": [
+    "gulpplugin",
+    "her"
+  ],
+  "licenses": "MIT",
+  "main": "her-kernel.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ustbhuangyi/gulp-her-kernel.git"
+  },
+  "dependencies": {
+    "minimatch": "^2.0.1",
+    "vinyl": "^0.4.0",
+    "iconv-lite": "0.2.10"
+  }
+}
