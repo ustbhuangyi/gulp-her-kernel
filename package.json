@@ -1,6 +1,6 @@
 {
   "name": "gulp-her-kernel",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "her kernel,it's kernel for other [gulp-her-xxx] plugin",
   "author": {
     "name": "huangyi",
@@ -27,5 +27,27 @@
     "minimatch": "^2.0.1",
     "vinyl": "^0.4.0",
     "iconv-lite": "0.2.10"
-  }
+  },
+  "gitHead": "f9afb51846ab8879b9d92767d668024b8ebae75d",
+  "_id": "gulp-her-kernel@0.0.1",
+  "scripts": {},
+  "_shasum": "86dbe00bfa40257b1212afa646c8b4017223a6b4",
+  "_from": "gulp-her-kernel@0.0.1",
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "ustbhuangyi",
+    "email": "ustbhuangyi@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "ustbhuangyi",
+      "email": "ustbhuangyi@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "86dbe00bfa40257b1212afa646c8b4017223a6b4",
+    "tarball": "http://registry.npmjs.org/gulp-her-kernel/-/gulp-her-kernel-0.0.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/gulp-her-kernel/-/gulp-her-kernel-0.0.1.tgz"
 }
