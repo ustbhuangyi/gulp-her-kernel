@@ -1,6 +1,6 @@
 {
   "name": "gulp-her-kernel",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "her kernel,it's kernel for other [gulp-her-xxx] plugin",
   "author": {
     "name": "huangyi",
